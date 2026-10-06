@@ -1,6 +1,8 @@
+const apiBase = (import.meta.env.VITE_API_URL || "").replace(/\/$/, "");
+
 export async function api(path, options = {}) {
   const token = localStorage.getItem("veloura_token");
-  const response = await fetch(`/api${path}`, {
+  const response = await fetch(`${apiBase}/api${path}`, {
     ...options,
     headers: {
       "Content-Type": "application/json",

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f8efe9"/>
+  <circle cx="140" cy="760" r="120" fill="#f1ddd6"/>
+  <ellipse cx="400" cy="870" rx="140" ry="20" fill="#e8d5ce"/>
+  <path d="M310 220h180l40 90v500c0 40-40 70-130 70s-130-30-130-70V310z" fill="#fffdfb" stroke="#6e3142" stroke-opacity="0.25" stroke-width="3"/>
+  <rect x="330" y="150" width="140" height="80" rx="16" fill="#6e3142"/>
+  <rect x="330" y="470" width="140" height="160" rx="10" fill="#fff" opacity="0.55"/>
+  <text x="400" y="545" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#6e3142">Veloura</text>
+  <text x="400" y="578" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#7d7168" letter-spacing="2">MILK</text>
+</svg>

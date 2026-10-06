@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f6eee8"/>
+  <circle cx="620" cy="240" r="90" fill="#efddd4"/>
+  <ellipse cx="400" cy="870" rx="160" ry="22" fill="#e5d5cc"/>
+  <rect x="300" y="180" width="200" height="64" rx="18" fill="#6e3142"/>
+  <path d="M270 250h260l-20 560c-4 36-40 60-110 60s-106-24-110-60z" fill="#fffdfb" stroke="#6e3142" stroke-opacity="0.22" stroke-width="3"/>
+  <text x="400" y="540" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#6e3142">Veloura</text>
+  <text x="400" y="574" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#7d7168" letter-spacing="2">BODY</text>
+</svg>

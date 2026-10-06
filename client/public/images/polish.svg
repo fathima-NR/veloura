@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f3e8e3"/>
+  <circle cx="200" cy="220" r="80" fill="#edd5ce"/>
+  <ellipse cx="400" cy="860" rx="170" ry="22" fill="#e4d0c8"/>
+  <ellipse cx="400" cy="430" rx="180" ry="70" fill="#fffdfb" stroke="#6e3142" stroke-opacity="0.2"/>
+  <rect x="230" y="430" width="340" height="360" rx="24" fill="#fffdfb" stroke="#6e3142" stroke-opacity="0.22" stroke-width="3"/>
+  <text x="400" y="610" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#6e3142">Veloura</text>
+  <text x="400" y="648" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#7d7168" letter-spacing="2">POLISH</text>
+</svg>

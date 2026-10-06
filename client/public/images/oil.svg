@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f8eee8"/>
+  <circle cx="180" cy="200" r="70" fill="#f0d9d2"/>
+  <ellipse cx="400" cy="860" rx="130" ry="20" fill="#e7d4cc"/>
+  <rect x="392" y="150" width="16" height="90" rx="6" fill="#c4a28a"/>
+  <rect x="360" y="220" width="80" height="70" rx="10" fill="#6e3142"/>
+  <rect x="330" y="280" width="140" height="520" rx="20" fill="#f3d7c4" stroke="#6e3142" stroke-opacity="0.3" stroke-width="3"/>
+  <text x="400" y="540" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#6e3142">Veloura</text>
+  <text x="400" y="572" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#7d5344" letter-spacing="2">OIL</text>
+</svg>

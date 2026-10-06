@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f6e7e2"/>
+  <circle cx="160" cy="180" r="90" fill="#f3d5d0" opacity="0.7"/>
+  <circle cx="680" cy="820" r="140" fill="#efd3cc" opacity="0.8"/>
+  <ellipse cx="400" cy="860" rx="150" ry="22" fill="#e7cfc8"/>
+  <rect x="372" y="168" width="56" height="150" rx="8" fill="#6e3142"/>
+  <rect x="390" y="128" width="20" height="52" rx="6" fill="#4c2431"/>
+  <rect x="300" y="300" width="200" height="520" rx="90" fill="#fffdfb" stroke="#6e3142" stroke-opacity="0.25" stroke-width="3"/>
+  <rect x="318" y="430" width="164" height="250" rx="8" fill="#fff" opacity="0.55"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#6e3142">Veloura</text>
+  <text x="400" y="556" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#7d7168" letter-spacing="3">SERUM</text>
+</svg>

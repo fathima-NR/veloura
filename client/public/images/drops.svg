@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f7ece7"/>
+  <circle cx="150" cy="180" r="60" fill="#f0d8d1"/>
+  <ellipse cx="400" cy="850" rx="120" ry="18" fill="#e8d4cc"/>
+  <rect x="400" y="150" width="14" height="80" rx="5" fill="#d7b7a4"/>
+  <rect x="368" y="214" width="78" height="64" rx="10" fill="#6e3142"/>
+  <rect x="345" y="270" width="124" height="500" rx="62" fill="#fffdfb" stroke="#6e3142" stroke-opacity="0.25" stroke-width="3"/>
+  <circle cx="407" cy="520" r="28" fill="#f6d7cf"/>
+  <text x="407" y="680" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#6e3142">Veloura</text>
+</svg>
